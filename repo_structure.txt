@@ -1,8 +1,0 @@
-boston-housing-project/
-├── .gitignore
-├── README.md
-├── environment.yml
-├── notebooks/
-│   └── 01_boston_data_analysis.ipynb
-├── data/
-│   └── (put your dataset here)
